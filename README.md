@@ -1,6 +1,3 @@
-<!--
-## Code Analytics
-
 Hello! 👋
 
 I'm Kathleen. I had a professor who introduced me to the idea of "wicked problems." Wicked problems are the sort of thing that have no clear answers---they require ingenuity, confidence, and a commitment to a challenge. That's the kind of stuff I love working on. 
@@ -9,6 +6,8 @@ AI is the most challenging, fastest-changing problem humanity has in existence. 
 
 In my quest to solve wicked problems, I've learned nine languages: Rust, Python, TypeScript, C, and ARMv8 assembly, among others. 
 
+<!--
+## Code Analytics
 
 <a href="https://github.com/kathigg/code-streak-dashboard">
   <img src="https://raw.githubusercontent.com/kathigg/code-streak-dashboard/main/dist/dashboard.svg" alt="Code streak dashboard for kathigg" width="920" />
