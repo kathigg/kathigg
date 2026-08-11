@@ -1,11 +1,3 @@
-Hello! 👋
-
-I'm Kathleen. I had a professor who introduced me to the idea of "wicked problems." Wicked problems are the sort of thing that have no clear answers---they require ingenuity, confidence, and a commitment to a challenge. That's the kind of stuff I love working on. 
-
-AI is the most challenging, fastest-changing problem humanity has in existence. That's why I'm pursuing the path of an AI researcher. 
-
-In my quest to solve wicked problems, I've learned nine languages: Rust, Python, TypeScript, C, and ARMv8 assembly, among others. 
-
 <!--
 ## Code Analytics
 
