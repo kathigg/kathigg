@@ -2,7 +2,7 @@ Hello! I'm Kathleen. I adore AI research. Within this broad field, I love asking
 
 I also enjoy building more conventional systems---I currently work for a KPMG-Break Through Tech team that's building a RAG system for research retrieval from arXiv. 
 
-Please email me if you're interested about my work! I'm always looking for a new problem to solve. 
+Please email me if you're interested about my work! Most of it isn't publicly available, but I'm always excited to talk. I'm always looking for a new problem to solve. 
 
 <!--
 ## Code Analytics
